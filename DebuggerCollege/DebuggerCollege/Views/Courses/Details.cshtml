@@ -1,0 +1,42 @@
+﻿@model DebuggerCollege.Models.Courses
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>Courses</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.CourseName)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.CourseName)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.CourseInformation)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.CourseInformation)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.id }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>
