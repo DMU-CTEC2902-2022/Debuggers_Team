@@ -20,5 +20,9 @@ namespace DebuggerCollege.Data
         }
 
         public System.Data.Entity.DbSet<DebuggerCollege.Models.Courses> Courses { get; set; }
+
+        public System.Data.Entity.DbSet<DebuggerCollege.Models.Modules> Modules { get; set; }
+
+        public System.Data.Entity.DbSet<DebuggerCollege.Models.Staff> Staffs { get; set; }
     }
 }
