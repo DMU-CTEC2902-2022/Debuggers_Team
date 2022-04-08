@@ -38,3 +38,42 @@ H:\Year 2\Advanced Programming\assgi 2\DebuggerCollege\DebuggerCollege.Tests\obj
 H:\Year 2\Advanced Programming\assgi 2\DebuggerCollege\DebuggerCollege.Tests\obj\Debug\DebuggerCollege.Tests.pdb
 H:\Year 2\Advanced Programming\assgi 2\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\EntityFramework.dll
 H:\Year 2\Advanced Programming\assgi 2\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\EntityFramework.xml
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\DebuggerCollege.Tests.dll.config
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\DebuggerCollege.Tests.dll
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\DebuggerCollege.Tests.pdb
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\DebuggerCollege.dll
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\Newtonsoft.Json.dll
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\System.Web.Helpers.dll
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\System.Web.Mvc.dll
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\System.Web.Razor.dll
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\System.Web.WebPages.dll
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\System.Web.Optimization.dll
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\EntityFramework.dll
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\WebGrease.dll
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\Antlr3.Runtime.dll
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\DebuggerCollege.pdb
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\DebuggerCollege.dll.config
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\Newtonsoft.Json.xml
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\System.Web.Helpers.xml
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\System.Web.Mvc.xml
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\System.Web.Razor.xml
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\System.Web.WebPages.xml
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\System.Web.Optimization.xml
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\EntityFramework.xml
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\bin\Debug\Antlr3.Runtime.pdb
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\obj\Debug\DebuggerCollege.Tests.csproj.CoreCompileInputs.cache
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\obj\Debug\DebuggerCollege.Tests.csproj.CopyComplete
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\obj\Debug\DebuggerCollege.Tests.dll
+H:\Year 2\Advanced Programming\new assig 2 8th\DebuggerCollege\DebuggerCollege.Tests\obj\Debug\DebuggerCollege.Tests.pdb
