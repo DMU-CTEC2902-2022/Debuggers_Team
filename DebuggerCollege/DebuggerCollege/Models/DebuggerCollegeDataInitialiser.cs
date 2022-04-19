@@ -31,7 +31,8 @@ namespace DebuggerCollege.Models
             Module1.id = 1903; // might have toi change id to a string as it contains letters COS1903
             Module1.CourseId = 1; //Computer Science 
             Module1.ModuleTitle = "Scala Programming";
-            Module1.ModuleDescription = "dfgdfgfdgfd";
+            Module1.ModuleDescription = "Write programs that effectively use parallel collections to achieve performance." +
+                " Manipulate data with Spark and Scala";
             //Module1.ModuleContents =
             context.Modules.Add(Module1);
 
@@ -39,7 +40,8 @@ namespace DebuggerCollege.Models
             Module1.id = 1920; // might have toi change id to a string as it contains letters COS1920
             Module1.CourseId = 1; //Computer Science 
             Module1.ModuleTitle = "Database Management";
-            Module1.ModuleDescription = "dfgdfgfdgfd";
+            Module1.ModuleDescription = "Concepts and theory of relational database management systems (RDBMS)" +
+                " including the analysis and design of relational database systems. This is a project-based class.";
             //Module1.ModuleContents =
             context.Modules.Add(Module1);
 
@@ -47,7 +49,9 @@ namespace DebuggerCollege.Models
             Module1.id = 2905; // might have toi change id to a string as it contains letters 
             Module1.CourseId = 1; //Computer Science 
             Module1.ModuleTitle = "Object Oriented Programming";
-            Module1.ModuleDescription = "dfgdfgfdgfd";
+            Module1.ModuleDescription = "This module covers the development of simple software systems." +
+                "Students will gain an understanding of the software development process," +
+                " and learn to design and implement applications in a popular object-oriented programming language.";
             //Module1.ModuleContents =
             context.Modules.Add(Module1);
 
@@ -55,7 +59,9 @@ namespace DebuggerCollege.Models
             Module1.id = 2910; // might have toi change id to a string as it contains letters 
             Module1.CourseId = 1; //Computer Science 
             Module1.ModuleTitle = "Database Management 2";
-            Module1.ModuleDescription = "dfgdfgfdgfd";
+            Module1.ModuleDescription = "To provide students with the ability to independently and as a team member identify, analyse, " +
+                "discuss and report key issues of ethics and law that relate to computer security for both individuals and society." +
+                " Students will also be provided with an opportunity to explore and understand the importance of the role’s users play in cyber security";
             //Module1.ModuleContents =
             context.Modules.Add(Module1);
 
@@ -128,6 +134,14 @@ namespace DebuggerCollege.Models
             Module1.id = 3611; // might have toi change id to a string as it contains letters 
             Module1.CourseId = 2; //Software Engineering
             Module1.ModuleTitle = "Computer Ethics and Privacy";
+            Module1.ModuleDescription = "dfgdfgfdgfd";
+            //Module1.ModuleContents =
+            context.Modules.Add(Module1);
+
+            Module1 = new DebuggerCollege.Models.Modules();
+            Module1.id = 3611; // might have toi change id to a string as it contains letters 
+            Module1.CourseId = 2; //Software Engineering
+            Module1.ModuleTitle = "Development Project";
             Module1.ModuleDescription = "dfgdfgfdgfd";
             //Module1.ModuleContents =
             context.Modules.Add(Module1);
