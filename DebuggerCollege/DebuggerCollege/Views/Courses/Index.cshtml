@@ -13,7 +13,8 @@
 </head>
 <body>
     <p>
-        @Html.ActionLink("Create New", "Create")
+        <!--@Html.ActionLink("Create New", "Create")-->
+        <h1> DebuggerCollege Courses</h1>
     </p>
     <table class="table">
         <tr>
@@ -25,7 +26,7 @@
             </th>
             <th></th>
         </tr>
-    
+
     @foreach (var item in Model) {
         <tr>
             <td>
@@ -36,12 +37,12 @@
             </td>
             <td>
                 <!-- @Html.ActionLink("Edit", "Edit", new { id=item.id }) | -->
-                @Html.ActionLink("Details", "Details", new { id = item.id })
-                <!--  @Html.ActionLink("Delete", "Delete", new { id = item.id }) -->
-            </td>
+        @Html.ActionLink("Details", "Details", new { id = item.id })
+        <!--  @Html.ActionLink("Delete", "Delete", new { id = item.id }) -->
+        </td>
         </tr>
     }
-    
+
     </table>
 </body>
 </html>
