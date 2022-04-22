@@ -15,10 +15,10 @@ namespace DebuggerCollege.Models
             con1.CourseName = "Computer Science";
             context.Courses.Add(con1);
 
-            DebuggerCollege.Models.Courses con2 = new DebuggerCollege.Models.Courses();
-            con2.id = 2;
-            con2.CourseName = "Software Engineering";
-            context.Courses.Add(con2);
+            //DebuggerCollege.Models.Courses con2 = new DebuggerCollege.Models.Courses();
+            //con2.id = 2;
+            //con2.CourseName = "";
+            //context.Courses.Add(con2);
 
             DebuggerCollege.Models.Courses con3 = new DebuggerCollege.Models.Courses();
             con3.id = 3;

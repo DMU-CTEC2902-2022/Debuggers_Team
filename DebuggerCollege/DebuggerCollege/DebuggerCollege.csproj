@@ -130,6 +130,7 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\Modules1Controller.cs" />
     <Compile Include="Controllers\ModulesController.cs" />
+    <Compile Include="Controllers\SoftwareEngineeringController.cs" />
     <Compile Include="Controllers\Staffs1Controller.cs" />
     <Compile Include="Controllers\StaffsController.cs" />
     <Compile Include="Data\CoursesContext.cs" />
@@ -141,6 +142,7 @@
     <Compile Include="Models\Courses.cs" />
     <Compile Include="Models\DebuggerCollegeDataInitialiser.cs" />
     <Compile Include="Models\Modules.cs" />
+    <Compile Include="Models\SoftwareEngineering.cs" />
     <Compile Include="Models\Staff.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -205,6 +207,7 @@
     <Content Include="Views\Staffs1\Details.cshtml" />
     <Content Include="Views\Staffs1\Edit.cshtml" />
     <Content Include="Views\Staffs1\Index.cshtml" />
+    <Content Include="Views\SoftwareEngineering\Modules.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

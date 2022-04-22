@@ -1,0 +1,96 @@
+﻿
+@{
+    ViewBag.Title = "Modules";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Modules</title>
+</head>
+<style>
+    body {
+        background-image: url('https://img.freepik.com/free-vector/halftone-dots-white-background-gray-dots-halftone-texture_47243-1127.jpg?w=2000');
+    }
+</style>
+<body>
+
+     <ol style="font-size:2em">
+        <li>
+            @*SoftwareEngineering Modules *@
+            <div height="200" style=" border-radius: 20px;">
+                <h2><b>@Model.ModuleTitle</b></h2>
+                <h3><b>@Model.ModuleCode</b></h3>
+                <p>@Model.ModuleDescription</p>
+                <p><b>Contents:</b> @Model.ModuleContents</p>
+                <p><b>Tutors:</b> @Model.StaffMembers</p>
+            </div>
+        </li>
+        <li>
+            @*SoftwareEngineering Modules *@
+            <div height="200" style=" border-radius: 20px;">
+                <h2><b>@Model.ModuleTitle1</b></h2>
+                <h3><b>@Model.ModuleCode1</b></h3>
+                <p>@Model.ModuleDescription1</p>
+                <p><b>Contents:</b> @Model.ModuleContents1</p>
+                <p><b>Tutors:</b> @Model.StaffMembers1</p>
+            </div>
+        </li>
+
+        <li>
+            @*SoftwareEngineering Modules *@
+            <div height="200" style=" border-radius: 20px;">
+                <h2><b>@Model.ModuleTitle2</b></h2>
+                <h3><b>@Model.ModuleCode2</b></h3>
+                <p>@Model.ModuleDescription2</p>
+                <p><b>Contents:</b> @Model.ModuleContents2</p>
+                <p><b>Tutors:</b> @Model.StaffMembers2</p>
+            </div>
+        </li>
+
+        <li>
+            @*SoftwareEngineering Modules *@
+            <div height="200" style=" border-radius: 20px;">
+                <h2><b>@Model.ModuleTitle3</b></h2>
+                <h3><b>@Model.ModuleCode3</b></h3>
+                <p>@Model.ModuleDescription3</p>
+                <p><b>Contents:</b> @Model.ModuleContents3</p>
+                <p><b>Tutors:</b> @Model.StaffMembers3</p>
+            </div>
+        </li>
+        <li>
+            @*SoftwareEngineering Modules *@
+            <div height="200" style=" border-radius: 20px;">
+                <h2><b>@Model.ModuleTitle4</b></h2>
+                <h3><b>@Model.ModuleCode4</b></h3>
+                <p>@Model.ModuleDescription4</p>
+                <p><b>Contents:</b> @Model.ModuleContents4</p>
+                <p><b>Tutors:</b> @Model.StaffMembers4</p>
+            </div>
+        </li>
+        <li>
+            @*SoftwareEngineering Modules *@
+            <div height="200" style=" border-radius: 20px;">
+                <h2><b>@Model.ModuleTitle5</b></h2>
+                <h3><b>@Model.ModuleCode5</b></h3>
+                <p>@Model.ModuleDescription5</p>
+                <p><b>Contents:</b> @Model.ModuleContents5</p>
+                <p><b>Tutors:</b> @Model.StaffMembers5</p>
+            </div>
+        </li>
+        <li>
+            @*SoftwareEngineering Modules *@
+            <div height="200" style=" border-radius: 20px;">
+                <h2><b>@Model.ModuleTitle6</b></h2>
+                <h3><b>@Model.ModuleCode6</b></h3>
+                <p>@Model.ModuleDescription6</p>
+                <p><b>Contents:</b> @Model.ModuleContents6</p>
+                <p><b>Tutors:</b> @Model.StaffMembers6</p>
+            </div>
+        </li>
+    </ol>
+</body>
+</html>
