@@ -16,9 +16,19 @@ namespace DebuggerCollege.Controllers
         private CoursesContext db = new CoursesContext();
 
         // GET: Modules1
-        public ActionResult Index()
+        public ActionResult Index(int? id)
         {
-            return View(db.Modules.ToList());
+            List<Modules> moduleslist;
+            var models = db.Modules.Include(g => g.courses);
+            if (id != null)
+                moduleslist = models.ToList().FindAll(p => p.CourseId == id); 
+            // retrieve all models for id 
+          else moduleslist = models.ToList(); // Retrieve all games
+            if (moduleslist.Count() == 0)
+            {
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            }
+            return View(moduleslist);
         }
 
         // GET: Modules1/Details/5

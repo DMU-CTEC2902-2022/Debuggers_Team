@@ -144,6 +144,7 @@
     <Compile Include="Models\Modules.cs" />
     <Compile Include="Models\SoftwareEngineering.cs" />
     <Compile Include="Models\Staff.cs" />
+    <Compile Include="Models\Student.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
